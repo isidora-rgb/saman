@@ -20,13 +20,13 @@ h3{
 body {
     text-align: center;
     background-color:darkslategray;
-    background-image: url(../images/zglogo.jpeg);
+    background-image: url(zglogo.jpeg);
     background-blend-mode: hue;
     display: flex;
     flex-direction:column;
 }
 header {
-    background-image: url(../images/gruvlend.jpeg);
+    background-image: url(gruvlend.jpeg);
     background-repeat:repeat-x;
     background-position-x: center;
 }
@@ -37,7 +37,7 @@ img {
     height: 25%;
 }
 footer {
-    background-image: url(../images/zemljagruva.jpeg);
+    background-image: url(zemljagruva.jpeg);
 background-repeat: repeat-x;
 background-position-x: center;
 }
