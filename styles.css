@@ -1,0 +1,57 @@
+p {
+    color:rgb(35, 33, 33);
+    font-size: 20px;
+    text-align: center;
+    font-family: "Roboto Flex";
+  }
+  a {
+color: black;
+  }
+h1 {
+    color:rgb(35, 33, 33);
+
+}
+h2 {
+    color:rgb(35, 33, 33);
+}
+h3{
+    color:rgb(35, 33, 33);
+}
+body {
+    text-align: center;
+    background-color:darkslategray;
+    background-image: url(../images/zglogo.jpeg);
+    background-blend-mode: hue;
+    display: flex;
+    flex-direction:column;
+}
+header {
+    background-image: url(../images/gruvlend.jpeg);
+    background-repeat:repeat-x;
+    background-position-x: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+    height: 25%;
+}
+footer {
+    background-image: url(../images/zemljagruva.jpeg);
+background-repeat: repeat-x;
+background-position-x: center;
+}
+html{
+    font-size: 25px;
+    font-family: "Roboto Flex";
+}
+video {
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    display:block;
+    margin: 0 auto;
+}
+caption {
+    color: blue;
+}
