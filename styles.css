@@ -29,6 +29,7 @@ header {
     background-image: url(gruvlend.jpeg);
     background-repeat:repeat-x;
     background-position-x: center;
+    width: 100%;
 }
 img {
     display: block;
@@ -40,6 +41,7 @@ footer {
     background-image: url(zemljagruva.jpeg);
 background-repeat: repeat-x;
 background-position-x: center;
+     width: 100%;
 }
 html{
     font-size: 25px;
